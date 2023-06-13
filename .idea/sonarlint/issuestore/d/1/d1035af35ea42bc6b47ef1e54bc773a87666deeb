@@ -1,0 +1,19 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôº„š
+Z
+java:S1854
+"?Remove this useless assignment to local variable "stringArray".(‘øæşÿÿÿÿ
+X
+java:S1854	"=Remove this useless assignment to local variable "boolArray".(•ÌÛ‹ıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(„ÓÖç
+I
+java:S1481	".Remove this unused "boolArray" local variable.(•ÌÛ‹ıÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(•ÌÛ‹ıÿÿÿÿ
+K
+java:S1481
+"0Remove this unused "stringArray" local variable.(‘øæşÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(‘øæşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½ğ´–ùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ëİİå
+S	java:S106"9Replace this use of System.out or System.err by a logger.( Í…Æùÿÿÿÿ
